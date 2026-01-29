@@ -42,4 +42,4 @@ The implementation is provided as a Jupyter notebook. To run the experiments:
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ## Authors
-- Malak Laham
+- Malak
